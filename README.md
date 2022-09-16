@@ -1,4 +1,3 @@
-# AboutMe
 
 - 👋 Hy, I'm [ Ajay Sinha ](https://github.com/ajaysinhaorigin)
 - 🌱 I’m a Frontend Web-developer Currently Learning and Working with ReactJS , JavaScript , CSS.
